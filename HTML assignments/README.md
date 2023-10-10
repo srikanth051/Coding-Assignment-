@@ -27,7 +27,7 @@ This assignment involves creating a basic calculator using HTML, CSS, and JavaSc
 
 ## Survey Form
 
-**Folder:** `survey_form`
+**Folder:** `survey form`
 
 **Description:**
 
